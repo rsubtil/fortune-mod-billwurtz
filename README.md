@@ -16,7 +16,11 @@ strfile -c % billwurtz{,.dat}
 
 ### Arch Linux
 
-*coming soon (to a damp river valley near you)*
+Install [fortune-mod-billwurtz](https://aur.archlinux.org/packages/fortune-mod-billwurtz/) from the AUR:
+
+```bash
+yay -S fortune-mod-billwurtz
+```
 
 ### Other distros
 
